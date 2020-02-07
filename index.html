@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Hiragana - Katakana - Nguyễn Như Tỉnh</title>
+	<meta name="viewport" content="width=device-width, initial-scale=0.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+	<link rel="shortcut icon" href="favicon.ico">
+
+	<!-- STYLESHEET -->
+	<link href="css/main.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+	<div id="my_app">
+		<div class="container">
+			<div class="main_wrp row" style="min-height: 1000px;">
+				<div class="col col_main">
+					<h1 class="letter">
+						<span class="big">Empty</span>
+						<span class="small">Empty</span>
+					</h1>
+					<h3 class="time">Empty</h3>
+					<p class="time_info">Time Duration: <span class="txt_duration">Empty</span> &nbsp; &nbsp; &nbsp; Time To Show: <span class="txt_to_show">Empty</span></p>
+					<div class="player_wrp">
+						<audio id="player" controls src=""></audio>
+						<button id="restart">Restart</button>
+						<hr style="margin: 20px 0;">
+						<button id="play" title="Press Space">PLAY</button>
+						<button id="next" title="Press Right Arrow">NEXT</button>
+						<button id="show_result" title="Press Enter">RESULT</button>
+						<br><br>
+						<i>(Press Space on Keyboard to PAUSE or PLAY)</i><br>
+						<i>(Press Enter on Keyboard to show the RESULT)</i><br>
+						<i>(Press Right Arrow on Keyboard to NEXT)</i><br>
+						<i>(Press R on Keyboard to REPLAY AUDIO)</i>
+						<hr style="margin: 20px 0;">
+						<h4>Settings:</h4>
+						<input id="duration" type="number">
+						<button id="set_duration">Set Time Duration</button>
+						<br>
+						<input id="time_to_show" type="number">
+						<button id="set_time_to_show">Set Time To Show</button>
+						<hr style="margin: 20px 0;">
+						<button id="reload" onClick="window.location.reload();return false;">Reload</button>
+					</div>
+				</div>
+				<div class="col col_select_type">
+					<div class="choose_wrp">
+						<h4>Select Game Type:
+							<label><input name="itemGameType" type="radio" value="0" checked="" class="item_game_type"> Latin => JP</label>
+							<label><input name="itemGameType" type="radio" value="1" class="item_game_type"> JP => Latin</label>
+						</h4>
+						<h4>Select Letter Type:
+							<label><input name="itemLetterType" type="radio" value="0" checked="" class="item_letter_type"> Hiragana</label>
+							<label><input name="itemLetterType" type="radio" value="1" class="item_letter_type"> Katakana</label>
+						</h4>
+						<div class="error_check"></div>
+						<div class="all_checkboxs check_wrp">
+							<div class="top_button">
+								<button class="btn_check">Check All</button>&nbsp;<button class="btn_uncheck">Uncheck All</button>
+							</div>
+							<div class="group_wrp"></div>
+						</div>
+						<div class="box_bottom">
+							<button id="setLetter">OK</button>
+							<span class="error_check"></span>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-- JAVASCRIPT -->
+	<script src="js/jquery-2.1.4.min.js"></script>
+	<script src="js/main.js"></script>
+</body>
+</html>

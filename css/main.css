@@ -1,0 +1,237 @@
+* {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Yu Mincho Demibold";
+  padding: 0;
+  margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+}
+
+a,
+button,
+label,
+input[type="checkbox"] {
+  cursor: pointer;
+}
+
+.container {
+  width: 1170px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: 0 auto;
+}
+
+.row {
+  margin-left: -15px;
+  margin-right: -15px;
+}
+
+.row:before, .row:after {
+  content: " ";
+  clear: both;
+  display: table;
+}
+
+.col {
+  position: relative;
+  min-height: 1px;
+  float: left;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+#my_app {
+  padding: 20px 0;
+}
+
+.main_wrp .col_main {
+  width: 45%;
+}
+
+.main_wrp .col_select_type {
+  width: 55%;
+}
+
+.letter {
+  font-size: 150px;
+  line-height: 1;
+  margin-bottom: 20px;
+}
+
+.letter .small {
+  font-size: 50%;
+  color: red;
+}
+
+.time {
+  font-size: 70px;
+  line-height: 1.1;
+  color: red;
+}
+
+.error_check {
+  color: red;
+}
+
+#player,
+#restart {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+#play,
+#show_result,
+#next,
+#setLetter {
+  font-size: 40px;
+}
+
+#reload {
+  font-size: 30px;
+}
+
+.choose_wrp .all_checkboxs {
+  margin-top: 15px;
+}
+
+.choose_wrp .all_checkboxs .top_button {
+  text-align: center;
+}
+
+.choose_wrp .all_checkboxs .top_button button {
+  font-size: 20px;
+}
+
+.choose_wrp .group_wrp {
+  margin-bottom: 10px;
+}
+
+.choose_wrp .group_wrp .group {
+  margin-top: 20px;
+}
+
+.choose_wrp .group_wrp .group h5 {
+  margin-bottom: 10px;
+}
+
+.choose_wrp .group_wrp .group .title_group,
+.choose_wrp .group_wrp .group .btn_check {
+  margin-right: 5px;
+}
+
+.choose_wrp ul.group_checkbox {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.choose_wrp ul.group_checkbox > li {
+  display: block;
+}
+
+.choose_wrp ul.group_checkbox > li:before, .choose_wrp ul.group_checkbox > li:after {
+  content: " ";
+  clear: both;
+  display: table;
+}
+
+.choose_wrp ul.group_checkbox ul.checkboxs {
+  float: left;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.choose_wrp ul.group_checkbox ul.checkboxs > li {
+  display: inline-block;
+  vertical-align: baseline;
+  min-width: 90px;
+  font-size: 20px;
+}
+
+.choose_wrp ul.group_checkbox ul.checkboxs input[type="checkbox"],
+.choose_wrp ul.group_checkbox ul.checkboxs .label {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.choose_wrp ul.group_checkbox ul.checkboxs input[type="checkbox"] {
+  margin: 0 5px 0 0;
+}
+
+.choose_wrp ul.group_checkbox ul.checkboxs .label {
+  position: relative;
+}
+
+.choose_wrp ul.group_checkbox ul.checkboxs .label .text {
+  display: inline-block;
+  vertical-align: middle;
+  position: relative;
+  min-width: 1em;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.choose_wrp ul.group_checkbox ul.checkboxs .label .text:hover {
+  color: #ff0000;
+}
+
+.choose_wrp ul.group_checkbox ul.checkboxs .label .text:active {
+  top: 2px;
+}
+
+.choose_wrp ul.group_checkbox ul.checkboxs .label .revert {
+  display: table;
+  overflow: hidden;
+  position: absolute;
+  left: 100%;
+  top: 100%;
+  line-height: 1;
+  color: #f00;
+  background: #fff;
+  border: 1px solid #b9b9b9;
+  text-align: center;
+  z-index: 1;
+}
+
+.choose_wrp ul.group_checkbox ul.checkboxs .label .revert > * {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.choose_wrp ul.group_checkbox ul.checkboxs .label .revert .txt_revert {
+  font-style: normal;
+  white-space: nowrap;
+  padding: 5px;
+}
+
+.choose_wrp ul.group_checkbox ul.checkboxs .label .revert .close {
+  font-size: 80%;
+  font-style: normal;
+  color: #fff;
+  background: #b9b9b9;
+  cursor: pointer;
+  padding: 0 5px;
+}
+
+.choose_wrp ul.group_checkbox ul.checkboxs .label .revert .close:hover {
+  opacity: 0.7;
+}
+
+.choose_wrp ul.group_checkbox .btn_wrp {
+  float: right;
+}
+
+.choose_wrp .box_bottom {
+  text-align: center;
+}
+
+.choose_wrp .box_bottom #setCharacter {
+  font-size: 30px;
+}

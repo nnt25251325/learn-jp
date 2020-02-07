@@ -1,0 +1,994 @@
+{
+	"letter": [
+		{
+			"name": "Hiragana",
+			"list_group": [
+				{
+					"group_name": "Monographs",
+					"group_content": [
+						[
+							{
+								"latin": "a",
+								"jp": "あ"
+							},
+							{
+								"latin": "i",
+								"jp": "い"
+							},
+							{
+								"latin": "u",
+								"jp": "う"
+							},
+							{
+								"latin": "e",
+								"jp": "え"
+							},
+							{
+								"latin": "o",
+								"jp": "お"
+							}
+						],
+						[
+							{
+								"latin": "ka",
+								"jp": "か"
+							},
+							{
+								"latin": "ki",
+								"jp": "き"
+							},
+							{
+								"latin": "ku",
+								"jp": "く"
+							},
+							{
+								"latin": "ke",
+								"jp": "け"
+							},
+							{
+								"latin": "ko",
+								"jp": "こ"
+							}
+						],
+						[
+							{
+								"latin": "sa",
+								"jp": "さ"
+							},
+							{
+								"latin": "shi",
+								"jp": "し"
+							},
+							{
+								"latin": "su",
+								"jp": "す"
+							},
+							{
+								"latin": "se",
+								"jp": "せ"
+							},
+							{
+								"latin": "so",
+								"jp": "そ"
+							}
+						],
+						[
+							{
+								"latin": "ta",
+								"jp": "た"
+							},
+							{
+								"latin": "chi",
+								"jp": "ち"
+							},
+							{
+								"latin": "tsu",
+								"jp": "つ"
+							},
+							{
+								"latin": "te",
+								"jp": "て"
+							},
+							{
+								"latin": "to",
+								"jp": "と"
+							}
+						],
+						[
+							{
+								"latin": "na",
+								"jp": "な"
+							},
+							{
+								"latin": "ni",
+								"jp": "に"
+							},
+							{
+								"latin": "nu",
+								"jp": "ぬ"
+							},
+							{
+								"latin": "ne",
+								"jp": "ね"
+							},
+							{
+								"latin": "no",
+								"jp": "の"
+							}
+						],
+						[
+							{
+								"latin": "ha",
+								"jp": "は"
+							},
+							{
+								"latin": "hi",
+								"jp": "ひ"
+							},
+							{
+								"latin": "fu",
+								"jp": "ふ"
+							},
+							{
+								"latin": "he",
+								"jp": "へ"
+							},
+							{
+								"latin": "ho",
+								"jp": "ほ"
+							}
+						],
+						[
+							{
+								"latin": "ma",
+								"jp": "ま"
+							},
+							{
+								"latin": "mi",
+								"jp": "み"
+							},
+							{
+								"latin": "mu",
+								"jp": "む"
+							},
+							{
+								"latin": "me",
+								"jp": "め"
+							},
+							{
+								"latin": "mo",
+								"jp": "も"
+							}
+						],
+						[
+							{
+								"latin": "ya",
+								"jp": "や"
+							},
+							{
+								"latin": "yu",
+								"jp": "ゆ"
+							},
+							{
+								"latin": "yo",
+								"jp": "よ"
+							}
+						],
+						[
+							{
+								"latin": "ra",
+								"jp": "ら"
+							},
+							{
+								"latin": "ri",
+								"jp": "り"
+							},
+							{
+								"latin": "ru",
+								"jp": "る"
+							},
+							{
+								"latin": "re",
+								"jp": "れ"
+							},
+							{
+								"latin": "ro",
+								"jp": "ろ"
+							}
+						],
+						[
+							{
+								"latin": "wa",
+								"jp": "わ"
+							},
+							{
+								"latin": "wo",
+								"jp": "を"
+							},
+							{
+								"latin": "n",
+								"jp": "ん"
+							}
+						]
+					]
+				},
+				{
+					"group_name": "Monographs diacritics",
+					"group_content": [
+						[
+							{
+								"latin": "ga",
+								"jp": "が"
+							},
+							{
+								"latin": "gi",
+								"jp": "ぎ"
+							},
+							{
+								"latin": "gu",
+								"jp": "ぐ"
+							},
+							{
+								"latin": "ge",
+								"jp": "げ"
+							},
+							{
+								"latin": "go",
+								"jp": "ご"
+							}
+						],
+						[
+							{
+								"latin": "za",
+								"jp": "ざ"
+							},
+							{
+								"latin": "ji",
+								"jp": "じ"
+							},
+							{
+								"latin": "zu",
+								"jp": "ず"
+							},
+							{
+								"latin": "ze",
+								"jp": "ぜ"
+							},
+							{
+								"latin": "zo",
+								"jp": "ぞ"
+							}
+						],
+						[
+							{
+								"latin": "da",
+								"jp": "だ"
+							},
+							{
+								"latin": "ji(di)",
+								"jp": "ぢ"
+							},
+							{
+								"latin": "zu(du)",
+								"jp": "づ"
+							},
+							{
+								"latin": "de",
+								"jp": "で"
+							},
+							{
+								"latin": "do",
+								"jp": "ど"
+							}
+						],
+						[
+							{
+								"latin": "ba",
+								"jp": "ば"
+							},
+							{
+								"latin": "bi",
+								"jp": "び"
+							},
+							{
+								"latin": "bu",
+								"jp": "ぶ"
+							},
+							{
+								"latin": "be",
+								"jp": "べ"
+							},
+							{
+								"latin": "bo",
+								"jp": "ぼ"
+							}
+						],
+						[
+							{
+								"latin": "pa",
+								"jp": "ぱ"
+							},
+							{
+								"latin": "pi",
+								"jp": "ぴ"
+							},
+							{
+								"latin": "pu",
+								"jp": "ぷ"
+							},
+							{
+								"latin": "pe",
+								"jp": "ぺ"
+							},
+							{
+								"latin": "po",
+								"jp": "ぽ"
+							}
+						]
+					]
+				},
+				{
+					"group_name": "Digraphs",
+					"group_content": [
+						[
+							{
+								"latin": "kya",
+								"jp": "きゃ"
+							},
+							{
+								"latin": "kyu",
+								"jp": "きゅ"
+							},
+							{
+								"latin": "kyo",
+								"jp": "きょ"
+							}
+						],
+						[
+							{
+								"latin": "sha",
+								"jp": "しゃ"
+							},
+							{
+								"latin": "shu",
+								"jp": "しゅ"
+							},
+							{
+								"latin": "sho",
+								"jp": "しょ"
+							}
+						],
+						[
+							{
+								"latin": "cha",
+								"jp": "ちゃ"
+							},
+							{
+								"latin": "chu",
+								"jp": "ちゅ"
+							},
+							{
+								"latin": "cho",
+								"jp": "ちょ"
+							}
+						],
+						[
+							{
+								"latin": "nya",
+								"jp": "にゃ"
+							},
+							{
+								"latin": "nyu",
+								"jp": "にゅ"
+							},
+							{
+								"latin": "nyo",
+								"jp": "にょ"
+							}
+						],
+						[
+							{
+								"latin": "hya",
+								"jp": "ひゃ"
+							},
+							{
+								"latin": "hyu",
+								"jp": "ひゅ"
+							},
+							{
+								"latin": "hyo",
+								"jp": "ひょ"
+							}
+						],
+						[
+							{
+								"latin": "mya",
+								"jp": "みゃ"
+							},
+							{
+								"latin": "myu",
+								"jp": "みゅ"
+							},
+							{
+								"latin": "myo",
+								"jp": "みょ"
+							}
+						],
+						[
+							{
+								"latin": "rya",
+								"jp": "りゃ"
+							},
+							{
+								"latin": "ryu",
+								"jp": "りゅ"
+							},
+							{
+								"latin": "ryo",
+								"jp": "りょ"
+							}
+						]
+					]
+				},
+				{
+					"group_name": "Digraphs diacritics",
+					"group_content": [
+						[
+							{
+								"latin": "gya",
+								"jp": "ぎゃ"
+							},
+							{
+								"latin": "gyu",
+								"jp": "ぎゅ"
+							},
+							{
+								"latin": "gyo",
+								"jp": "ぎょ"
+							}
+						],
+						[
+							{
+								"latin": "ja",
+								"jp": "じゃ"
+							},
+							{
+								"latin": "ju",
+								"jp": "じゅ"
+							},
+							{
+								"latin": "jo",
+								"jp": "じょ"
+							}
+						],
+						[
+							{
+								"latin": "bya",
+								"jp": "びゃ"
+							},
+							{
+								"latin": "byu",
+								"jp": "びゅ"
+							},
+							{
+								"latin": "byo",
+								"jp": "びょ"
+							}
+						],
+						[
+							{
+								"latin": "pya",
+								"jp": "ぴゃ"
+							},
+							{
+								"latin": "pyu",
+								"jp": "ぴゅ"
+							},
+							{
+								"latin": "pyo",
+								"jp": "ぴょ"
+							}
+						]
+					]
+				}
+			]
+		},
+		{
+			"name": "Katakana",
+			"list_group": [
+				{
+					"group_name": "Monographs",
+					"group_content": [
+						[
+							{
+								"latin": "a",
+								"jp": "ア"
+							},
+							{
+								"latin": "i",
+								"jp": "イ"
+							},
+							{
+								"latin": "u",
+								"jp": "ウ"
+							},
+							{
+								"latin": "e",
+								"jp": "エ"
+							},
+							{
+								"latin": "o",
+								"jp": "オ"
+							}
+						],
+						[
+							{
+								"latin": "ka",
+								"jp": "カ"
+							},
+							{
+								"latin": "ki",
+								"jp": "キ"
+							},
+							{
+								"latin": "ku",
+								"jp": "ク"
+							},
+							{
+								"latin": "ke",
+								"jp": "ケ"
+							},
+							{
+								"latin": "ko",
+								"jp": "コ"
+							}
+						],
+						[
+							{
+								"latin": "sa",
+								"jp": "サ"
+							},
+							{
+								"latin": "shi",
+								"jp": "シ"
+							},
+							{
+								"latin": "su",
+								"jp": "ス"
+							},
+							{
+								"latin": "se",
+								"jp": "セ"
+							},
+							{
+								"latin": "so",
+								"jp": "ソ"
+							}
+						],
+						[
+							{
+								"latin": "ta",
+								"jp": "タ"
+							},
+							{
+								"latin": "chi",
+								"jp": "チ"
+							},
+							{
+								"latin": "tsu",
+								"jp": "ツ"
+							},
+							{
+								"latin": "te",
+								"jp": "テ"
+							},
+							{
+								"latin": "to",
+								"jp": "ト"
+							}
+						],
+						[
+							{
+								"latin": "na",
+								"jp": "ナ"
+							},
+							{
+								"latin": "ni",
+								"jp": "ニ"
+							},
+							{
+								"latin": "nu",
+								"jp": "ヌ"
+							},
+							{
+								"latin": "ne",
+								"jp": "ネ"
+							},
+							{
+								"latin": "no",
+								"jp": "ノ"
+							}
+						],
+						[
+							{
+								"latin": "ha",
+								"jp": "ハ"
+							},
+							{
+								"latin": "hi",
+								"jp": "ヒ"
+							},
+							{
+								"latin": "fu",
+								"jp": "フ"
+							},
+							{
+								"latin": "he",
+								"jp": "ヘ"
+							},
+							{
+								"latin": "ho",
+								"jp": "ホ"
+							}
+						],
+						[
+							{
+								"latin": "ma",
+								"jp": "マ"
+							},
+							{
+								"latin": "mi",
+								"jp": "ミ"
+							},
+							{
+								"latin": "mu",
+								"jp": "ム"
+							},
+							{
+								"latin": "me",
+								"jp": "メ"
+							},
+							{
+								"latin": "mo",
+								"jp": "モ"
+							}
+						],
+						[
+							{
+								"latin": "ya",
+								"jp": "ヤ"
+							},
+							{
+								"latin": "yu",
+								"jp": "ユ"
+							},
+							{
+								"latin": "yo",
+								"jp": "ヨ"
+							}
+						],
+						[
+							{
+								"latin": "ra",
+								"jp": "ラ"
+							},
+							{
+								"latin": "ri",
+								"jp": "リ"
+							},
+							{
+								"latin": "ru",
+								"jp": "ル"
+							},
+							{
+								"latin": "re",
+								"jp": "レ"
+							},
+							{
+								"latin": "ro",
+								"jp": "ロ"
+							}
+						],
+						[
+							{
+								"latin": "wa",
+								"jp": "ワ"
+							},
+							{
+								"latin": "wo",
+								"jp": "ヲ"
+							},
+							{
+								"latin": "n",
+								"jp": "ン"
+							}
+						]
+					]
+				},
+				{
+					"group_name": "Monographs diacritics",
+					"group_content": [
+						[
+							{
+								"latin": "ga",
+								"jp": "ガ"
+							},
+							{
+								"latin": "gi",
+								"jp": "ギ"
+							},
+							{
+								"latin": "gu",
+								"jp": "グ"
+							},
+							{
+								"latin": "ge",
+								"jp": "ゲ"
+							},
+							{
+								"latin": "go",
+								"jp": "ゴ"
+							}
+						],
+						[
+							{
+								"latin": "za",
+								"jp": "ザ"
+							},
+							{
+								"latin": "ji",
+								"jp": "ジ"
+							},
+							{
+								"latin": "zu",
+								"jp": "ズ"
+							},
+							{
+								"latin": "ze",
+								"jp": "ゼ"
+							},
+							{
+								"latin": "zo",
+								"jp": "ゾ"
+							}
+						],
+						[
+							{
+								"latin": "da",
+								"jp": "ダ"
+							},
+							{
+								"latin": "ji",
+								"jp": "ヂ"
+							},
+							{
+								"latin": "zu",
+								"jp": "ヅ"
+							},
+							{
+								"latin": "de",
+								"jp": "デ"
+							},
+							{
+								"latin": "do",
+								"jp": "ド"
+							}
+						],
+						[
+							{
+								"latin": "ba",
+								"jp": "バ"
+							},
+							{
+								"latin": "bi",
+								"jp": "ビ"
+							},
+							{
+								"latin": "bu",
+								"jp": "ブ"
+							},
+							{
+								"latin": "be",
+								"jp": "ベ"
+							},
+							{
+								"latin": "bo",
+								"jp": "ボ"
+							}
+						],
+						[
+							{
+								"latin": "pa",
+								"jp": "パ"
+							},
+							{
+								"latin": "pi",
+								"jp": "ピ"
+							},
+							{
+								"latin": "pu",
+								"jp": "プ"
+							},
+							{
+								"latin": "pe",
+								"jp": "ペ"
+							},
+							{
+								"latin": "po",
+								"jp": "ポ"
+							}
+						]
+					]
+				},
+				{
+					"group_name": "Digraphs",
+					"group_content": [
+						[
+							{
+								"latin": "kya",
+								"jp": "キャ"
+							},
+							{
+								"latin": "kyu",
+								"jp": "キュ"
+							},
+							{
+								"latin": "kyo",
+								"jp": "キョ"
+							}
+						],
+						[
+							{
+								"latin": "sha",
+								"jp": "シャ"
+							},
+							{
+								"latin": "shu",
+								"jp": "シュ"
+							},
+							{
+								"latin": "sho",
+								"jp": "ショ"
+							}
+						],
+						[
+							{
+								"latin": "cha",
+								"jp": "チャ"
+							},
+							{
+								"latin": "chu",
+								"jp": "チュ"
+							},
+							{
+								"latin": "cho",
+								"jp": "チョ"
+							}
+						],
+						[
+							{
+								"latin": "nya",
+								"jp": "ニャ"
+							},
+							{
+								"latin": "nyu",
+								"jp": "ニュ"
+							},
+							{
+								"latin": "nyo",
+								"jp": "ニョ"
+							}
+						],
+						[
+							{
+								"latin": "hya",
+								"jp": "ヒャ"
+							},
+							{
+								"latin": "hyu",
+								"jp": "ヒュ"
+							},
+							{
+								"latin": "hyo",
+								"jp": "ヒョ"
+							}
+						],
+						[
+							{
+								"latin": "mya",
+								"jp": "ミャ"
+							},
+							{
+								"latin": "myu",
+								"jp": "ミュ"
+							},
+							{
+								"latin": "myo",
+								"jp": "ミョ"
+							}
+						],
+						[
+							{
+								"latin": "rya",
+								"jp": "リャ"
+							},
+							{
+								"latin": "ryu",
+								"jp": "リュ"
+							},
+							{
+								"latin": "ryo",
+								"jp": "リョ"
+							}
+						]
+					]
+				},
+				{
+					"group_name": "Digraphs diacritics",
+					"group_content": [
+						[
+							{
+								"latin": "gya",
+								"jp": "ギャ"
+							},
+							{
+								"latin": "gyu",
+								"jp": "ギュ"
+							},
+							{
+								"latin": "gyo",
+								"jp": "ギョ"
+							}
+						],
+						[
+							{
+								"latin": "ja",
+								"jp": "ジャ"
+							},
+							{
+								"latin": "ju",
+								"jp": "ジュ"
+							},
+							{
+								"latin": "jo",
+								"jp": "ジョ"
+							}
+						],
+						[
+							{
+								"latin": "bya",
+								"jp": "ビャ"
+							},
+							{
+								"latin": "byu",
+								"jp": "ビュ"
+							},
+							{
+								"latin": "byo",
+								"jp": "ビョ"
+							}
+						],
+						[
+							{
+								"latin": "pya",
+								"jp": "ピャ"
+							},
+							{
+								"latin": "pyu",
+								"jp": "ピュ"
+							},
+							{
+								"latin": "pyo",
+								"jp": "ピョ"
+							}
+						]
+					]
+				}
+			]
+		}
+	],
+	"set_time": {
+		"duration": 10,
+		"time_to_show": 3
+	}
+}
