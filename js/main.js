@@ -1,6 +1,6 @@
 ;
 (function($) {
-	var url_data = '/json/data.json',
+	var url_data = 'json/data.json',
 			game_type = 0,
 			letter_type = 0,
 			array_latin = [],
